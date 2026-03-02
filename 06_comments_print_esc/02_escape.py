@@ -1,0 +1,1 @@
+print("Hey how are you doing\t?\nI am good\'new line\\ here\"")
